@@ -35,8 +35,10 @@ The interactive-style dashboard presents key performance indicators (KPIs), summ
 - Business data analysis
 
 ## Project Files
+
 - `Sales_Data_Analysis_Dashboard_Portfolio.xlsx` — Excel dashboard workbook
-- `Sales_Dashboard_Screenshot.png` — Dashboard screenshot
+- `Sales_Dashboard_Screenshot.png` — Main dashboard screenshot
+- `Sales_Dashboard_Screenshot_2.png` — Additional dashboard screenshot
 
 ## Project Objective
 The objective of this project is to practice Excel-based data analysis and present sales information in a visual format that supports business understanding and decision-making.
