@@ -1,5 +1,5 @@
-![Sales Dashboard](Sales_Dashboard_Screenshot.png)
-(Sales_Dashboard_Screenshot_2.png)
+![Sales_Dashboard](Sales_Dashboard_Screenshot.png)
+![Sales_Dashboard - Additional_View](Sales_Dashboard_Screenshot_2.png)
 # Excel Sales Data Analysis Dashboard
 
 ## Project Overview
